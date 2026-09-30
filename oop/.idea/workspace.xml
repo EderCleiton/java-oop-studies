@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e36156e8-6ed2-4b5c-8390-39f60f171b8b" name="Changes" comment="" />
+    <list default="true" id="bfedd5e3-43c5-44dc-8df8-8ed43c0a6c0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,32 +13,34 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
+  "associatedIndex": 5,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3JyNVI4poDHMDpMsn22sVWU7dIY" />
+  <component name="ProjectId" id="3JygPukHBWedZFc5vjZtHQAiaC3" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/EC/Desktop/Java/java-oop-studies/oop/src/Main.java"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e36156e8-6ed2-4b5c-8390-39f60f171b8b" name="Changes" comment="" />
-      <created>1790629371441</created>
+      <changelist id="bfedd5e3-43c5-44dc-8df8-8ed43c0a6c0d" name="Changes" comment="" />
+      <created>1790638703015</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1790629371441</updated>
+      <updated>1790638703015</updated>
     </task>
     <servers />
   </component>
