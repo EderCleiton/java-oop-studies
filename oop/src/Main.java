@@ -1,20 +1,30 @@
-class Cachorro {
-    String nome;
+
+class Pessoa {
+    private String nome;
+    private int idade;
+
+    Pessoa(String nome, int idade) {
+        this.nome = nome;
+        this.idade = idade;
+    }
+
+    String getNome() {
+        return nome;
+    }
+
+
 
     void apresentar() {
-        System.out.println("Meu nome é " + nome);
+        System.out.println("Olá, meu nome é " + nome + " e tenho " + idade + " anos");
     }
 }
 
 public class Main {
     public static void main(String[] args) {
 
-    Cachorro dog1 = new Cachorro();
-    Cachorro dog2 = new Cachorro();
-    dog2.nome = "Bob";
-    dog1.nome = "Rex";
-    dog1.apresentar();
-    dog2.apresentar();
+        Pessoa user = new Pessoa("Ana", 20);
+
+        System.out.println(user.getNome());
 
     }
 }
