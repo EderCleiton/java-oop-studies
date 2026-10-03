@@ -1,30 +1,30 @@
 
-class Pessoa {
-    private String nome;
-    private int idade;
+abstract class Animal {
+    String nome;
 
-    Pessoa(String nome, int idade) {
-        this.nome = nome;
-        this.idade = idade;
-    }
-
-    String getNome() {
-        return nome;
-    }
-
-
-
-    void apresentar() {
-        System.out.println("Olá, meu nome é " + nome + " e tenho " + idade + " anos");
-    }
+    abstract void emitirSom();
 }
 
+class Cachorro extends Animal {
+
+    @Override
+    void emitirSom() {
+        System.out.println("Aua Au");
+    }
+}
+class Gato extends Animal{
+    @Override
+    void emitirSom() {
+        System.out.println("Miau");
+        }
+}
 public class Main {
     public static void main(String[] args) {
 
-        Pessoa user = new Pessoa("Ana", 20);
+        Animal dog = new Cachorro();
+        Animal cat = new Gato();
 
-        System.out.println(user.getNome());
-
+        dog.emitirSom();
+        cat.emitirSom();
     }
 }
