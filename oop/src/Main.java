@@ -1,30 +1,19 @@
-
-abstract class Animal {
-    String nome;
-
-    abstract void emitirSom();
+interface Voador{
+void voar();
 }
 
-class Cachorro extends Animal {
+class Passaro implements Voador{
+@Override
+public void voar(){
+System.out.println("O passáro está voando");}
+}
 
-    @Override
-    void emitirSom() {
-        System.out.println("Aua Au");
-    }
-}
-class Gato extends Animal{
-    @Override
-    void emitirSom() {
-        System.out.println("Miau");
-        }
-}
+
 public class Main {
     public static void main(String[] args) {
 
-        Animal dog = new Cachorro();
-        Animal cat = new Gato();
+        Passaro pass = new Passaro();
 
-        dog.emitirSom();
-        cat.emitirSom();
+        pass.voar();
     }
 }
