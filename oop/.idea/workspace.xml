@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16661bde-20cf-43bd-a778-cded9a2a5eea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Enpapsulamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enpapsulamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulamento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enpapsulamento.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +36,7 @@
     "Application.ClasseeObjeto.executor": "Run",
     "Application.Construtor.executor": "Run",
     "Application.Enpapsulamento.executor": "Run",
+    "Application.GetterSetter.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +52,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Enpapsulamento">
+  <component name="RunManager" selected="Application.GetterSetter">
     <configuration name="AtributoseMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtributoseMetodos" />
       <module name="OOP" />
@@ -72,15 +74,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enpapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Enpapsulamento" />
+    <configuration name="Encapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulamento" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="GetterSetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetterSetter" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Enpapsulamento" />
+        <item itemvalue="Application.GetterSetter" />
         <item itemvalue="Application.Construtor" />
+        <item itemvalue="Application.Encapsulamento" />
         <item itemvalue="Application.AtributoseMetodos" />
         <item itemvalue="Application.ClasseeObjeto" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

@@ -28,7 +28,7 @@ class ContaBancaria {
 }
 
 
-public class Enpapsulamento {
+public class Encapsulamento {
     public static void main(String[] args) {
 
     ContaBancaria usuario1 = new ContaBancaria("Cris",1000);
