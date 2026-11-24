@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16661bde-20cf-43bd-a778-cded9a2a5eea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Encapsulamento.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enpapsulamento.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +35,7 @@
     "Application.Construtor.executor": "Run",
     "Application.Enpapsulamento.executor": "Run",
     "Application.GetterSetter.executor": "Run",
+    "Application.Heranca.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -52,16 +51,9 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GetterSetter">
+  <component name="RunManager" selected="Application.Heranca">
     <configuration name="AtributoseMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtributoseMetodos" />
-      <module name="OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ClasseeObjeto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClasseeObjeto" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,13 +80,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Heranca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heranca" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Heranca" />
         <item itemvalue="Application.GetterSetter" />
         <item itemvalue="Application.Construtor" />
         <item itemvalue="Application.Encapsulamento" />
         <item itemvalue="Application.AtributoseMetodos" />
-        <item itemvalue="Application.ClasseeObjeto" />
       </list>
     </recent_temporary>
   </component>
