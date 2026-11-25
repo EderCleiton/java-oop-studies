@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16661bde-20cf-43bd-a778-cded9a2a5eea" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Polimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="16661bde-20cf-43bd-a778-cded9a2a5eea" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Abstract.executor": "Run",
     "Application.AtributoseMetodos.executor": "Run",
     "Application.ClasseeObjeto.executor": "Run",
     "Application.Construtor.executor": "Run",
@@ -53,16 +51,16 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Polimorfismo">
-    <configuration name="Construtor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Construtor" />
+  <component name="RunManager" selected="Application.Abstract">
+    <configuration name="Abstract" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abstract" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Encapsulamento" />
+    <configuration name="Construtor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Construtor" />
       <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Abstract" />
         <item itemvalue="Application.Polimorfismo" />
         <item itemvalue="Application.Heranca" />
         <item itemvalue="Application.GetterSetter" />
         <item itemvalue="Application.Construtor" />
-        <item itemvalue="Application.Encapsulamento" />
       </list>
     </recent_temporary>
   </component>
