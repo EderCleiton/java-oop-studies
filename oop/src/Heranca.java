@@ -17,6 +17,7 @@ class Automovel {
 class Auto extends Automovel {       // Car herda de Veiculo
 
     public Auto(String marca, String modelo){
+
     super(marca,modelo);    //Para poder usar o construtor da Classe Pai
     }
 

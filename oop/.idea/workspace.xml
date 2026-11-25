@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16661bde-20cf-43bd-a778-cded9a2a5eea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Polimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polimorfismo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
     "Application.GetterSetter.executor": "Run",
     "Application.Heranca.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Polimorfismo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -51,14 +53,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Heranca">
-    <configuration name="AtributoseMetodos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AtributoseMetodos" />
-      <module name="OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Polimorfismo">
     <configuration name="Construtor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Construtor" />
       <module name="OOP" />
@@ -87,13 +82,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Polimorfismo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polimorfismo" />
+      <module name="OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Polimorfismo" />
         <item itemvalue="Application.Heranca" />
         <item itemvalue="Application.GetterSetter" />
         <item itemvalue="Application.Construtor" />
         <item itemvalue="Application.Encapsulamento" />
-        <item itemvalue="Application.AtributoseMetodos" />
       </list>
     </recent_temporary>
   </component>
